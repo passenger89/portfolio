@@ -1,42 +1,97 @@
-# About Me
+<div align="center">
 
-![William Nicholson](./assets/me.png)
+# William Nicholson
 
-Hi there! 👋 I'm William Nicholson, a passionate full-stack web developer based in Leeds, UK. With a background in retail spanning over a decade, I decided to pivot my career towards web development, a decision I've never looked back on. I recently completed an intensive full-stack course on Udemy, equipping me with the skills and knowledge needed to thrive in the world of web development.
+Full-Stack Software Developer.
 
-### My Journey
+Currently working through the Boot.dev Backend Developer Path  
+Leeds, UK  
 
-My journey into web development has been nothing short of exhilarating. From crafting responsive and dynamic user interfaces to building robust backend systems, I've enjoyed every moment of the learning process. My eagerness to learn and adapt to new technologies has been the driving force behind my continuous growth as a developer.
+<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+  <img
+    src="https://github-readme-stats-seven-gules-83.vercel.app/api?username=passenger89&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=600"
+    style="max-width:100%; width:600px;"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats-seven-gules-83.vercel.app/api/top-langs/?username=passenger89&theme=tokyonight&hide_border=true&card_width=600"
+    style="max-width:100%; width:600px;"
+    alt="Top languages"
+  />
+</div>
+</div>
 
-### What I Love
+---
 
-- **Coding**: I have an insatiable appetite for coding. Building applications from scratch and seeing them come to life is immensely rewarding.
-- **Creativity**: Web development allows me to unleash my creativity. Whether it's designing captivating user experiences or architecting efficient solutions, I'm always up for a challenge.
-- **Problem-Solving**: Tackling complex problems and finding elegant solutions is what excites me the most. Every bug squashed and every feature implemented is a step forward in my journey.
+## Current Focus
 
-### Technologies I Work With
+```text
+• Python
+• TypeScript
+• Backend fundamentals
+• Async / Await & Promise debugging
+• Writing code I can explain clearly
+```
 
-#### Frontend
-- **React**
-- **Redux**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Semantic UI**
+---
 
-#### Backend
-- **Node.js**
-- **Express**
-- **Sequelize**
-- **PostgreSQL**
+## Stack
 
-#### DevOps
-- **Git**
-- **GitHub**
-- **npm**
-- **Webpack**
-- **Heroku**
+```yaml
+Languages:
+  - Python
+  - TypeScript
+  - JavaScript
 
-### Let's Connect!
+Frontend:
+  - React
+  - Redux
+  - HTML
+  - CSS
+  - Bootstrap
 
-I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out to me via [email](mailto:nicho268@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername). Let's build something amazing together!
+Backend:
+  - Node.js
+  - Express
+  - PostgreSQL
+
+Tooling:
+  - Git
+  - GitHub
+  - npm
+  - Vite
+```
+
+---
+
+## Development Philosophy
+
+```python
+def improve():
+    while True:
+        learn()
+        build()
+        debug()
+        refactor()
+```
+
+Consistency > intensity  
+Understanding > copying  
+Small projects > loud declarations  
+
+---
+
+## In Progress
+
+• Backend exercises and projects through Boot.dev  
+• Strengthening independent debugging discipline  
+• Expanding toward deeper system understanding  
+
+---
+
+## Contact
+
+Leeds, UK  
+LinkedIn: https://www.linkedin.com  
+
+Open to collaboration and interesting problems.
